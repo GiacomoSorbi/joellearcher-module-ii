@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", sans-serif, "Segoe UI";
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", sans-serif, "Segoe UI";
+  background-color: white;
+}
+
+.island-thumbnail,
+.island-title {
+  text-align: center;
+}
+
+img {
+  width: 500px;
+  height: 375px;
+  margin-bottom: 10px;
+}
+
+img:hover {
+  transform: scale(1.05);
+  transition: all 0.3s ease-in-out;
+}
+.dice-link {
+  text-align: center;
+}

@@ -1,0 +1,38 @@
+.dice-game {
+  text-align: center;
+}
+
+.dice-game-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(16px + 2vmin);
+  color: #fd651d;
+}
+
+.die {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+
+.button {
+  background-color: #fd651d;
+  color: white;
+  margin-top: 20px;
+  border-radius: 3px;
+  border: none;
+  outline: none;
+  box-shadow: 0 3px 0 0 #7136d3;
+  font-size: 24px;
+  font-weight: 600;
+  height: 60px;
+  width: 180px;
+}
+
+.button:hover {
+  box-shadow: 0 5px 0 0 #7136d3;
+}
