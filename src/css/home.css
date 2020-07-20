@@ -17,10 +17,7 @@
 
 @media (max-width: 600px) {
   .home-image1 {
-    height: 140px;
-    width: 225px;
-  }
-  .nav-menu-link {
-    height: 60px;
+    height: 250px;
+    width: 350px;
   }
 }

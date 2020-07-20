@@ -1,30 +1,58 @@
 * {
   padding: 0;
   box-sizing: border-box;
-  font-family: "Helvetica Neue", sans-serif, "Segoe UI";
 }
 
 body {
   margin: 0;
-  font-family: "Helvetica Neue", sans-serif, "Segoe UI";
   background-color: white;
 }
 
-.island-thumbnail,
+.island-section,
 .island-title {
   text-align: center;
 }
+.island-number {
+  color: #fd651d;
+  margin: 0px;
+}
 
-img {
+.island-img-1 {
   width: 500px;
   height: 375px;
   margin-bottom: 10px;
+  border: solid #fd651d;
+}
+
+.island-img-2 {
+  width: 500px;
+  height: 375px;
+  margin-bottom: 10px;
+  border: solid #7136d3;
 }
 
 img:hover {
   transform: scale(1.05);
   transition: all 0.3s ease-in-out;
 }
+
+.island-text {
+  margin-bottom: 50px;
+}
+
+p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+a,
 .dice-link {
   text-align: center;
+  color: #fd651d;
+  text-decoration: none;
+}
+.dice-link-image {
+  width: 50px;
+  height: 50px;
+  margin-left: 15px;
 }

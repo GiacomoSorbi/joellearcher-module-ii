@@ -5,16 +5,19 @@ import DieImage3 from "./images/dice_3.png";
 import DieImage4 from "./images/dice_4.png";
 import DieImage5 from "./images/dice_5.png";
 import DieImage6 from "./images/dice_6.png";
+import social from "./images/wtg-img-sprite.png";
 
+/*setting two state values for storing the click results for each die*/
 function Dice() {
   const [diceValue, setDiceValue] = useState(1);
   const [dice2Value, setDice2Value] = useState(6);
 
+  /*generating a number at random between 1-6 to correllate with numbers on the die using Math.floor method*/
   function rollDice() {
     setDiceValue(Math.floor(Math.random() * 6) + 1);
     setDice2Value(Math.floor(Math.random() * 6) + 1);
   }
-
+  /*call imported images. if function is equal to 1, return DieImage1, if equal to 2, return DieImage2 and so on*/
   function getDice(num) {
     if (num === 1) {
       return DieImage1;
@@ -43,6 +46,14 @@ function Dice() {
           roll the dice!
         </button>
       </header>
+      <footer>
+        <img
+          className="social-image"
+          src={social}
+          alt="instagram, facebook, twitter, whatsapp sprite"
+        />
+        <p className="footer-text">Copyright 2020 by Joelle Archer-D'Mello</p>{" "}
+      </footer>
     </div>
   );
 }

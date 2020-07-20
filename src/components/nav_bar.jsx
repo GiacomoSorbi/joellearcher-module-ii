@@ -2,12 +2,12 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import logo from "./images/WTG_Logo_2.png";
 
-const Navbar = props => (
-  <div className="App">
+const Navbar = _props => (
+  <div>
     <nav>
       <NavLink className="nav-menu-link" exact to="/">
                 
-        <img src={logo} className="WTG-logo" alt="website logo" />
+        <img src={logo} className="WTG-logo" alt="Where To Go. Website logo" />
       </NavLink>
       <ul className="nav-menu">
         <li>

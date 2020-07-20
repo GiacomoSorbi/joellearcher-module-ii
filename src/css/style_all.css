@@ -1,22 +1,11 @@
 * {
   padding: 0;
   box-sizing: border-box;
-  font-family: "Helvetica Neue", sans-serif, "Segoe UI";
+  font-family: "Helvetica Neue", sans-serif, "Arial";
 }
 body {
   margin: 0;
-  font-family: "Helvetica Neue", sans-serif, "Segoe UI";
   background-color: white;
-}
-
-code {
-  font-family: "Courier New", monospace;
-}
-
-.App {
-  background-color: white;
-  min-height: 10vh;
-  margin: auto;
 }
 
 nav {
@@ -24,6 +13,8 @@ nav {
   background-color: #fd651d;
   padding: 5px 10px;
   justify-content: space-between;
+  height: 150px;
+  margin: auto;
 }
 
 .nav-menu {
@@ -49,7 +40,9 @@ nav {
 }
 
 .nav-menu-link-b.active {
-  background-color: #7136d3;
+  color: #7136d3;
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .WTG-logo {
@@ -66,4 +59,28 @@ nav {
   color: black;
   margin-bottom: 20px;
   text-align: center;
+}
+.footer-text {
+  text-align: center;
+}
+.social-image {
+  width: 175px;
+  height: 43px;
+  margin-left: 485px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  nav {
+    height: 100px;
+  }
+  .WTG-logo {
+    width: 40px;
+    height: 40px;
+  }
+  .nav-menu li {
+    display: inline-block;
+    list-style-type: none;
+  }
 }
