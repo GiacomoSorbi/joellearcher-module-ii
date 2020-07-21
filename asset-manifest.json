@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/joellearcher-module-ii/static/css/main.2b3cb39c.chunk.css",
+    "main.js": "/joellearcher-module-ii/static/js/main.228b7fd4.chunk.js",
+    "main.js.map": "/joellearcher-module-ii/static/js/main.228b7fd4.chunk.js.map",
+    "runtime-main.js": "/joellearcher-module-ii/static/js/runtime-main.9520873b.js",
+    "runtime-main.js.map": "/joellearcher-module-ii/static/js/runtime-main.9520873b.js.map",
+    "static/js/2.e640afc7.chunk.js": "/joellearcher-module-ii/static/js/2.e640afc7.chunk.js",
+    "static/js/2.e640afc7.chunk.js.map": "/joellearcher-module-ii/static/js/2.e640afc7.chunk.js.map",
+    "index.html": "/joellearcher-module-ii/index.html",
+    "precache-manifest.aad33fafd46d68bc2fd45a26bf8eaa25.js": "/joellearcher-module-ii/precache-manifest.aad33fafd46d68bc2fd45a26bf8eaa25.js",
+    "service-worker.js": "/joellearcher-module-ii/service-worker.js",
+    "static/css/main.2b3cb39c.chunk.css.map": "/joellearcher-module-ii/static/css/main.2b3cb39c.chunk.css.map",
+    "static/js/2.e640afc7.chunk.js.LICENSE.txt": "/joellearcher-module-ii/static/js/2.e640afc7.chunk.js.LICENSE.txt",
+    "static/media/antigua.jpg": "/joellearcher-module-ii/static/media/antigua.1fa5b679.jpg",
+    "static/media/aruba.jpg": "/joellearcher-module-ii/static/media/aruba.78608d69.jpg",
+    "static/media/bahamas.jpg": "/joellearcher-module-ii/static/media/bahamas.c0ba52d3.jpg",
+    "static/media/barbados.jpg": "/joellearcher-module-ii/static/media/barbados.c7307946.jpg",
+    "static/media/cayman_islands.jpg": "/joellearcher-module-ii/static/media/cayman_islands.8cb4d4ce.jpg",
+    "static/media/dom_repub.jpg": "/joellearcher-module-ii/static/media/dom_repub.8cb2cd5f.jpg",
+    "static/media/guadelope.jpg": "/joellearcher-module-ii/static/media/guadelope.dc1af503.jpg",
+    "static/media/home-image.gif": "/joellearcher-module-ii/static/media/home-image.db2458be.gif",
+    "static/media/jamaica.jpg": "/joellearcher-module-ii/static/media/jamaica.e7696891.jpg",
+    "static/media/martinique.jpg": "/joellearcher-module-ii/static/media/martinique.2cf70f1a.jpg",
+    "static/media/saint-kitts.jpg": "/joellearcher-module-ii/static/media/saint-kitts.a21d6228.jpg",
+    "static/media/saint-lucia.jpg": "/joellearcher-module-ii/static/media/saint-lucia.0dca3d33.jpg",
+    "static/media/trinidad_tobago.jpg": "/joellearcher-module-ii/static/media/trinidad_tobago.8a98b4ec.jpg",
+    "static/media/wtg-img-sprite.png": "/joellearcher-module-ii/static/media/wtg-img-sprite.1257ce3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9520873b.js",
+    "static/js/2.e640afc7.chunk.js",
+    "static/css/main.2b3cb39c.chunk.css",
+    "static/js/main.228b7fd4.chunk.js"
+  ]
+}
