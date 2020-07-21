@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25ce4a375b358cc3ecdeb1c482a7f671",
+    "revision": "d065a96c4b08dfaab00448398d4897c1",
     "url": "/joellearcher-module-ii/index.html"
   },
   {
-    "revision": "ac4d1aa1343a18424eff",
+    "revision": "6a8784585c77d28b1fb6",
     "url": "/joellearcher-module-ii/static/css/main.2b3cb39c.chunk.css"
   },
   {
-    "revision": "42bcdedd219eba6f71da",
-    "url": "/joellearcher-module-ii/static/js/2.e640afc7.chunk.js"
+    "revision": "d0fc33da664de1c63530",
+    "url": "/joellearcher-module-ii/static/js/2.946a8b85.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/joellearcher-module-ii/static/js/2.e640afc7.chunk.js.LICENSE.txt"
+    "url": "/joellearcher-module-ii/static/js/2.946a8b85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac4d1aa1343a18424eff",
-    "url": "/joellearcher-module-ii/static/js/main.228b7fd4.chunk.js"
+    "revision": "6a8784585c77d28b1fb6",
+    "url": "/joellearcher-module-ii/static/js/main.6741538c.chunk.js"
   },
   {
     "revision": "c330f0ee14ae9f27cf41",
