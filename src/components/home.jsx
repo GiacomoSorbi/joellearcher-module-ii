@@ -10,7 +10,7 @@ const Home = _props => {
           <img
             className="home-image1"
             src={homeimage}
-            alt="Overhead view of dominican republic island. Bright coloured sea and beach"
+            alt="overhead view of dominican republic island. bright coloured sea and beach"
           />
         </a>
       </div>
@@ -19,7 +19,7 @@ const Home = _props => {
           <img
             className="social-image"
             src={social}
-            alt="instagram, facebook, twitter, whatsapp sprite"
+            alt="instagram, facebook, twitter, whatsapp logo sprite"
           />
           <p className="footer-text">Copyright 2020 by Joelle Archer-D'Mello</p>{" "}
         </footer>

@@ -46,14 +46,16 @@ function Dice() {
           roll the dice!
         </button>
       </header>
-      <footer>
-        <img
-          className="social-image"
-          src={social}
-          alt="instagram, facebook, twitter, whatsapp sprite"
-        />
-        <p className="footer-text">Copyright 2020 by Joelle Archer-D'Mello</p>{" "}
-      </footer>
+      <div>
+        <footer>
+          <img
+            id="social-image-die"
+            src={social}
+            alt="instagram, facebook, twitter, whatsapp sprite"
+          />
+          <p className="footer-text">Copyright 2020 by Joelle Archer-D'Mello</p>{" "}
+        </footer>
+      </div>
     </div>
   );
 }

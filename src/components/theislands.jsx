@@ -343,14 +343,16 @@ const Islands = _props => {
           </a>
         </h1>
       </div>
-      <footer>
-        <img
-          className="social-image"
-          src={social}
-          alt="instagram, facebook, twitter, whatsapp sprite"
-        />
-        <p className="footer-text">Copyright 2020 by Joelle Archer-D'Mello</p>{" "}
-      </footer>
+      <div>
+        <footer>
+          <img
+            className="social-image"
+            src={social}
+            alt="instagram, facebook, twitter, whatsapp sprite"
+          />
+          <p className="footer-text">Copyright 2020 by Joelle Archer-D'Mello</p>{" "}
+        </footer>
+      </div>
     </div>
   );
 };
