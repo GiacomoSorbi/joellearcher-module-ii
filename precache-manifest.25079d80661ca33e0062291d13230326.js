@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d065a96c4b08dfaab00448398d4897c1",
+    "revision": "8fcdff0839d7bbeaad3a9f500e5464b2",
     "url": "/joellearcher-module-ii/index.html"
   },
   {
-    "revision": "6a8784585c77d28b1fb6",
-    "url": "/joellearcher-module-ii/static/css/main.2b3cb39c.chunk.css"
+    "revision": "c9638ccb2815ebd8693a",
+    "url": "/joellearcher-module-ii/static/css/main.ca26f7f7.chunk.css"
   },
   {
     "revision": "d0fc33da664de1c63530",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joellearcher-module-ii/static/js/2.946a8b85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a8784585c77d28b1fb6",
-    "url": "/joellearcher-module-ii/static/js/main.6741538c.chunk.js"
+    "revision": "c9638ccb2815ebd8693a",
+    "url": "/joellearcher-module-ii/static/js/main.773df245.chunk.js"
   },
   {
     "revision": "c330f0ee14ae9f27cf41",
