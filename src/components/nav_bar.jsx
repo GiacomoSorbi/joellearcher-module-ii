@@ -6,7 +6,7 @@ const Navbar = _props => (
   <div>
     <nav>
       <NavLink className="nav-menu-link" exact to="/">
-                
+              
         <img src={logo} className="WTG-logo" alt="Where To Go. Website logo" />
       </NavLink>
       <ul className="nav-menu">

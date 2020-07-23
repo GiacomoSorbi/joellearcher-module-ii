@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(16px + 2vmin);
-  color: #fd651d;
+  color: #d44502;
 }
 
 .die {
@@ -16,7 +16,7 @@
 }
 
 .button {
-  background-color: #fd651d;
+  background-color: #d44502;
   color: white;
   margin-top: 20px;
   border-radius: 3px;

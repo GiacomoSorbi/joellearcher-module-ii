@@ -13,7 +13,7 @@ body {
   text-align: center;
 }
 .island-number {
-  color: #fd651d;
+  color: #d44502;
   margin: 0px;
 }
 
@@ -21,7 +21,7 @@ body {
   width: 500px;
   height: 375px;
   margin-bottom: 10px;
-  border: solid #fd651d;
+  border: solid #d44502;
 }
 
 .island-img-2 {
@@ -48,7 +48,7 @@ p {
 a,
 .dice-link {
   text-align: center;
-  color: #fd651d;
+  color: #d44502;
   text-decoration: none;
 }
 .dice-link-image {
