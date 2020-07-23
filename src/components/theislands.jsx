@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import jamaica from "./images/jamaica.jpg";
 import antigua from "./images/antigua.jpg";
 import barbados from "./images/barbados.jpg";
@@ -337,10 +338,10 @@ const Islands = _props => {
 
       <div className="dice-link">
         <h1>
-          <a href="/rollthedice">
+          <NavLink className="dice-link" exact to="/rollthedice">
             Now lets roll the dice!
             <img className="dice-link-image" src={dice} alt="die number five" />
-          </a>
+          </NavLink>
         </h1>
       </div>
       <div>

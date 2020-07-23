@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import homeimage from "./images/home-image.gif";
 import social from "./images/wtg-img-sprite.png";
 
@@ -6,13 +7,13 @@ const Home = _props => {
   return (
     <div className="main-content">
       <div className="home-image">
-        <a href="/theislands">
+        <NavLink exact to="/theislands">
           <img
             className="home-image1"
             src={homeimage}
             alt="overhead view of dominican republic island. bright coloured sea and beach"
           />
-        </a>
+        </NavLink>
       </div>
       <div>
         <footer>
