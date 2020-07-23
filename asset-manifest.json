@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/joellearcher-module-ii/static/css/main.ca26f7f7.chunk.css",
-    "main.js": "/joellearcher-module-ii/static/js/main.25dc3153.chunk.js",
-    "main.js.map": "/joellearcher-module-ii/static/js/main.25dc3153.chunk.js.map",
+    "main.css": "/joellearcher-module-ii/static/css/main.70bdf385.chunk.css",
+    "main.js": "/joellearcher-module-ii/static/js/main.046c3f7f.chunk.js",
+    "main.js.map": "/joellearcher-module-ii/static/js/main.046c3f7f.chunk.js.map",
     "runtime-main.js": "/joellearcher-module-ii/static/js/runtime-main.9520873b.js",
     "runtime-main.js.map": "/joellearcher-module-ii/static/js/runtime-main.9520873b.js.map",
-    "static/js/2.45534123.chunk.js": "/joellearcher-module-ii/static/js/2.45534123.chunk.js",
-    "static/js/2.45534123.chunk.js.map": "/joellearcher-module-ii/static/js/2.45534123.chunk.js.map",
+    "static/js/2.b045f9b1.chunk.js": "/joellearcher-module-ii/static/js/2.b045f9b1.chunk.js",
+    "static/js/2.b045f9b1.chunk.js.map": "/joellearcher-module-ii/static/js/2.b045f9b1.chunk.js.map",
     "index.html": "/joellearcher-module-ii/index.html",
-    "precache-manifest.2de17c9be6524f1a96d653dfc3fdde9e.js": "/joellearcher-module-ii/precache-manifest.2de17c9be6524f1a96d653dfc3fdde9e.js",
+    "precache-manifest.8b9b02699e8a2d748616727d92e85bdb.js": "/joellearcher-module-ii/precache-manifest.8b9b02699e8a2d748616727d92e85bdb.js",
     "service-worker.js": "/joellearcher-module-ii/service-worker.js",
-    "static/css/main.ca26f7f7.chunk.css.map": "/joellearcher-module-ii/static/css/main.ca26f7f7.chunk.css.map",
-    "static/js/2.45534123.chunk.js.LICENSE.txt": "/joellearcher-module-ii/static/js/2.45534123.chunk.js.LICENSE.txt",
+    "static/css/main.70bdf385.chunk.css.map": "/joellearcher-module-ii/static/css/main.70bdf385.chunk.css.map",
+    "static/js/2.b045f9b1.chunk.js.LICENSE.txt": "/joellearcher-module-ii/static/js/2.b045f9b1.chunk.js.LICENSE.txt",
     "static/media/antigua.jpg": "/joellearcher-module-ii/static/media/antigua.1fa5b679.jpg",
     "static/media/aruba.jpg": "/joellearcher-module-ii/static/media/aruba.78608d69.jpg",
     "static/media/bahamas.jpg": "/joellearcher-module-ii/static/media/bahamas.c0ba52d3.jpg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9520873b.js",
-    "static/js/2.45534123.chunk.js",
-    "static/css/main.ca26f7f7.chunk.css",
-    "static/js/main.25dc3153.chunk.js"
+    "static/js/2.b045f9b1.chunk.js",
+    "static/css/main.70bdf385.chunk.css",
+    "static/js/main.046c3f7f.chunk.js"
   ]
 }
