@@ -72,16 +72,27 @@ nav {
   cursor: pointer;
 }
 
-@media (max-width: 600px) {
-  nav {
-    height: 100px;
+/*mobile*/
+@media (max-width: 522px) {
+  .home-image1 {
+    height: 175px;
+    width: 275px;
+    margin-left: 35px;
   }
-  .WTG-logo {
-    width: 40px;
-    height: 40px;
+  .nav-menu {
+    list-style: none;
+    display: flex;
   }
+
   .nav-menu li {
-    display: inline-block;
     list-style-type: none;
+  }
+  .nav-menu-link,
+  .nav-menu-link-b {
+    display: inline-block;
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
   }
 }

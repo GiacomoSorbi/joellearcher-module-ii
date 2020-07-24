@@ -15,9 +15,50 @@
   transition: all 0.4s ease-in-out;
 }
 
-@media (max-width: 600px) {
+/*smaller desktop screen*/
+@media (max-width: 1082px) {
+  .home-image1 {
+    height: 400px;
+    width: 600px;
+    margin-left: 185px;
+  }
+  .social-image {
+    width: 175px;
+    height: 43px;
+    margin-left: 390px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+}
+/*ipad*/
+@media (max-width: 768px) {
   .home-image1 {
     height: 250px;
     width: 350px;
+    margin-left: 160px;
+  }
+  .social-image {
+    width: 175px;
+    height: 43px;
+    margin-left: 255px;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+}
+/*mobile*/
+@media (max-width: 375px) {
+  .home-image1 {
+    height: 175px;
+    width: 275px;
+    margin-left: 35px;
+  }
+  .social-image {
+    width: 175px;
+    height: 43px;
+    margin-left: 85px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    cursor: pointer;
   }
 }
