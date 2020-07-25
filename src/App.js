@@ -14,9 +14,9 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Navbar />
-        <Route path="/" component={Home} />
-        <Route exact path="/theislands" component={Islands} />
-        <Route exact path="/rollthedice" component={Dice} />
+        <Route exact path="/" component={Home} />
+        <Route path="/theislands" component={Islands} />
+        <Route path="/rollthedice" component={Dice} />
       </div>
     </BrowserRouter>
   );
