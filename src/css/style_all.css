@@ -64,35 +64,8 @@ nav {
   text-align: center;
 }
 .social-image {
-  width: 175px;
-  height: 43px;
   margin-left: 485px;
   margin-bottom: 50px;
   margin-top: 20px;
   cursor: pointer;
-}
-
-/*mobile*/
-@media (max-width: 522px) {
-  .home-image1 {
-    height: 175px;
-    width: 275px;
-    margin-left: 35px;
-  }
-  .nav-menu {
-    list-style: none;
-    display: flex;
-  }
-
-  .nav-menu li {
-    list-style-type: none;
-  }
-  .nav-menu-link,
-  .nav-menu-link-b {
-    display: inline-block;
-    margin-left: 30px;
-    text-decoration: none;
-    color: white;
-    font-size: 20px;
-  }
 }

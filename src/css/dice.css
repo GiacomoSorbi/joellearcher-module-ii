@@ -33,46 +33,7 @@
   box-shadow: 0 5px 0 0 #7136d3;
 }
 #social-image-die {
-  width: 175px;
-  height: 43px;
   margin-left: 555px;
   margin-bottom: 50px;
   cursor: pointer;
-}
-/*mobile*/
-@media (max-width: 375px) {
-  .dice-game-header {
-    background-color: white;
-    min-height: 50vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(16px + 2vmin);
-    color: #d44502;
-  }
-  #social-image-die {
-    width: 175px;
-    height: 43px;
-    margin-left: 100px;
-    margin-bottom: 50px;
-    margin-top: 20px;
-    cursor: pointer;
-  }
-}
-
-/*ipad*/
-@media (max-width: 768px) {
-  .home-image1 {
-    height: 250px;
-    width: 350px;
-    margin-left: 160px;
-  }
-  #social-image-die {
-    width: 175px;
-    height: 43px;
-    margin-left: 295px;
-    margin-top: 20px;
-    cursor: pointer;
-  }
 }

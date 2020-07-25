@@ -2,6 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import logo from "./images/WTG_Logo_2.png";
 
+/* re _props - added _ prefix to acknowledge it has not been used*/
 const Navbar = _props => (
   <div>
     <nav>

@@ -56,12 +56,3 @@ a,
   height: 50px;
   margin-left: 15px;
 }
-
-/*mobile*/
-@media (max-width: 375px) {
-  .island-img-1,
-  .island-img-2 {
-    height: 175px;
-    width: 275px;
-  }
-}

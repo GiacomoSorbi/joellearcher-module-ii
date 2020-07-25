@@ -1,8 +1,9 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import homeimage from "./images/home-image.gif";
-import social from "./images/wtg-img-sprite.png";
+import social from "./images/Social-media-img-sprite-2.png";
 
+/* re _props - added _ prefix to acknowledge it has not been used*/
 const Home = _props => {
   return (
     <div className="main-content">

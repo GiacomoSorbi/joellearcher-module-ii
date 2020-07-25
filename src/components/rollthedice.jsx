@@ -5,7 +5,7 @@ import DieImage3 from "./images/dice_3.png";
 import DieImage4 from "./images/dice_4.png";
 import DieImage5 from "./images/dice_5.png";
 import DieImage6 from "./images/dice_6.png";
-import social from "./images/wtg-img-sprite.png";
+import social from "./images/Social-media-img-sprite-2.png";
 
 /*setting two state values for storing the click results for each die*/
 function Dice() {
