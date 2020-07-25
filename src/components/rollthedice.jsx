@@ -12,7 +12,7 @@ function Dice() {
   const [diceValue, setDiceValue] = useState(1);
   const [dice2Value, setDice2Value] = useState(6);
 
-  /*generating a number at random between 1-6 to correllate with numbers on the die using Math.floor method*/
+  /*generating a number at random to correllate with numbers on the die using Math.floor method*/
   function rollDice() {
     setDiceValue(Math.floor(Math.random() * 6) + 1);
     setDice2Value(Math.floor(Math.random() * 6) + 1);
