@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed635c08301bef0528b9bbbb0242a188",
+    "revision": "60572a44ec31ba0cfdc2bdedda52a212",
     "url": "/joellearcher-module-ii/index.html"
   },
   {
-    "revision": "6fe3239d78dd3751531f",
-    "url": "/joellearcher-module-ii/static/css/main.b0f8cdec.chunk.css"
+    "revision": "b5a12c091b678d3df799",
+    "url": "/joellearcher-module-ii/static/css/main.d9c5712f.chunk.css"
   },
   {
     "revision": "3ff9823c741ba25d7231",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/joellearcher-module-ii/static/js/2.b045f9b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6fe3239d78dd3751531f",
-    "url": "/joellearcher-module-ii/static/js/main.2cce29a7.chunk.js"
+    "revision": "b5a12c091b678d3df799",
+    "url": "/joellearcher-module-ii/static/js/main.05c474b2.chunk.js"
   },
   {
     "revision": "c330f0ee14ae9f27cf41",
@@ -74,9 +74,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8a98b4ec32b2a7f196829ccd5b6e6c5e",
     "url": "/joellearcher-module-ii/static/media/trinidad_tobago.8a98b4ec.jpg"
-  },
-  {
-    "revision": "1257ce3b03e051da85f09c06eae40905",
-    "url": "/joellearcher-module-ii/static/media/wtg-img-sprite.1257ce3b.png"
   }
 ]);
